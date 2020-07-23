@@ -16,5 +16,13 @@
   },
   "resolutions": {
     "watchpack": "1.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzhidao1010/library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gzhidao1010/library/issues"
+  },
+  "homepage": "https://github.com/gzhidao1010/library#readme"
 }
