@@ -1,0 +1,20 @@
+{
+  "name": "df-plugins-doc",
+  "version": "1.0.0",
+  "description": "df-plugins-doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "lixiaoqiang",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  },
+  "resolutions": {
+    "watchpack": "1.6.1"
+  }
+}
